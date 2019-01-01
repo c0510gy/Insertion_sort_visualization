@@ -1,0 +1,7 @@
+D:\Projects\sorting_algorithm\Insertion_sort\Insertion_sort\Insertion_sort\bin\Debug\Insertion_sort.exe.config
+D:\Projects\sorting_algorithm\Insertion_sort\Insertion_sort\Insertion_sort\bin\Debug\Insertion_sort.exe
+D:\Projects\sorting_algorithm\Insertion_sort\Insertion_sort\Insertion_sort\bin\Debug\Insertion_sort.pdb
+D:\Projects\sorting_algorithm\Insertion_sort\Insertion_sort\Insertion_sort\obj\Debug\Insertion_sort.csprojResolveAssemblyReference.cache
+D:\Projects\sorting_algorithm\Insertion_sort\Insertion_sort\Insertion_sort\obj\Debug\Insertion_sort.csproj.CoreCompileInputs.cache
+D:\Projects\sorting_algorithm\Insertion_sort\Insertion_sort\Insertion_sort\obj\Debug\Insertion_sort.exe
+D:\Projects\sorting_algorithm\Insertion_sort\Insertion_sort\Insertion_sort\obj\Debug\Insertion_sort.pdb
